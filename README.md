@@ -50,3 +50,7 @@ Please install pygame and numpy in the analyzing system before looking into code
 
 ## Further improvements and scopes 
 The program can be extended to detecting collision with concave shapes by implementing triangulation if a polygon is concave in nature. The EPA algorithm can be implemented to improve response to collision.
+
+## Refrences
+K. A. Hart and J. J. Rimoli, Generation of statistically representative microstructures with direct grain geomety control, Computer Methods in Applied Mechanics and Engineering, 370 (2020), 113242.
+https://github.com/kip-hart/AABBTree
